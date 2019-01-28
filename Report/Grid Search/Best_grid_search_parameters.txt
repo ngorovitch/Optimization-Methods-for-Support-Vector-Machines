@@ -1,0 +1,10 @@
+Polinomial
+	best_C =  1
+	best_kernel_hyper_param =  31
+	best_test_error =  97.25274725274726
+	best_train_error =  100.0
+RBF
+	best_C =  1
+	best_kernel_hyper_param =  0.1
+	best_test_error =  97.52747252747253
+	best_train_error =  100.0
